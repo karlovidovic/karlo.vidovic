@@ -8,7 +8,7 @@ body {
     width: 100%;
     }
 .pozadina {
-	background-image: src="Slike/Pozadina.jpg";
+    background-color: darkcyan;
     opacity: 80%;
     }
 h1 {
